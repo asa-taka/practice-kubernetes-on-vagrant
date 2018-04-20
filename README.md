@@ -2,7 +2,7 @@
 
 This configurations are made with referring following guide.
 
-https://kubernetes-v1-4.github.io/docs/getting-started-guides/vagrant/
+https://kubernetes.io/docs/setup/independent/install-kubeadm/
 
 ## Prerequisits
 
